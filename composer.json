@@ -1,0 +1,12 @@
+{
+	"name": "m4y4-dev/php-property-reader",
+	"description": "",
+	"autoload": {
+		"psr-4": {
+			"PropertyReader\\": "/"
+		}
+	},
+	"require": {
+		"php": ">=5.4"
+	}
+}
